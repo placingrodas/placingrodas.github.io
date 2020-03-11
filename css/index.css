@@ -1,0 +1,21 @@
+*{
+	font-family: "Helvetica";
+}
+figure{
+	width: 100%;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+img{
+	width: 100%;
+	max-width: 450px;
+	background-color: red;
+}
+header figcaption{
+	background-color: rgb(40, 40, 40);
+	width: 100%;
+	color: white;
+	margin: 20px 0 20px 0;
+	padding: 10px 0 10px 0;
+}
