@@ -2,7 +2,17 @@
 	font-family: Helvetica, Arial;
 }
 
+
+header {
+
+}
+
 figure{
+    position: fixed;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+
 	width: 100%;
 	text-align: center;
 	padding: 0;
@@ -13,7 +23,7 @@ img{
 	max-width: 450px;
 }
 header figcaption{
-	background-color: rgb(40, 40, 40);
+	background-color: Purple;
 	width: 100%;
 	color: white;
 	margin: 20px 0 20px 0;
